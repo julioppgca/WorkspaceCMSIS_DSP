@@ -1,0 +1,30 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+/Users/Julio/ti/tirex-content/CMSIS-SP-00300-r4p5-00rel0/CMSIS/DSP_Lib/Source/CommonTables/arm_common_tables.c \
+/Users/Julio/ti/tirex-content/CMSIS-SP-00300-r4p5-00rel0/CMSIS/DSP_Lib/Source/CommonTables/arm_const_structs.c 
+
+C_DEPS += \
+./CommonTables/arm_common_tables.d \
+./CommonTables/arm_const_structs.d 
+
+OBJS += \
+./CommonTables/arm_common_tables.obj \
+./CommonTables/arm_const_structs.obj 
+
+OBJS__QUOTED += \
+"CommonTables/arm_common_tables.obj" \
+"CommonTables/arm_const_structs.obj" 
+
+C_DEPS__QUOTED += \
+"CommonTables/arm_common_tables.d" \
+"CommonTables/arm_const_structs.d" 
+
+C_SRCS__QUOTED += \
+"/Users/Julio/ti/tirex-content/CMSIS-SP-00300-r4p5-00rel0/CMSIS/DSP_Lib/Source/CommonTables/arm_common_tables.c" \
+"/Users/Julio/ti/tirex-content/CMSIS-SP-00300-r4p5-00rel0/CMSIS/DSP_Lib/Source/CommonTables/arm_const_structs.c" 
+
+
